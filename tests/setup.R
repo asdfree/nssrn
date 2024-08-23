@@ -1,6 +1,6 @@
-# 
-# 
-# 
+# florence nightingale
+# founder of modern nursing
+# a statistician
 library(haven)
 
 nssrn_tf <- tempfile()
