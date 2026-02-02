@@ -164,7 +164,6 @@ glm_result <-
 	)
 
 summary( glm_result )
-
 unwtd_count_result <- svyby( ~ one , ~ age_group , nssrn_design , unwtd.count )
 
 # cells L398 thru L402
